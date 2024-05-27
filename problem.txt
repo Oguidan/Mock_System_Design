@@ -1,0 +1,18 @@
+Given an API to track when a certain user listened to a certain song, build a system to track the top 10 most listened to songs and albums in the last one week/ one month/ one year, by user/ country/ globally.
+
+Use cases:
+API-top N songs/Albums
+Personalization - No
+End user customization - No
+
+Scale
+400M users - 40% active
+Avg 2hrs of song listening everyday
+70 million songs
+60k songs get added everyday
+
+Latency
+Not real time
+Every hour refresh in certain popular regions
+Up to 1 day for less popular regions
+Configurable
