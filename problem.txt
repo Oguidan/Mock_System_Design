@@ -16,3 +16,9 @@ Not real time
 Every hour refresh in certain popular regions
 Up to 1 day for less popular regions
 Configurable
+
+QPS - 200qps to start with
+To scale up to 1000qps
+
+Data Calculations:
+200M users -> 3hrs a day -> 3 * 60
