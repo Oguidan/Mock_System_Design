@@ -21,4 +21,6 @@ QPS - 200qps to start with
 To scale up to 1000qps
 
 Data Calculations:
-200M users -> 3hrs a day -> 3 * 60
+200M users -> 3hrs a day -> 3 * 60 / 5 = 36 songs by an user -> 200M * 36 / 12
+Input QPS - 600M songs per day
+One event per song.
