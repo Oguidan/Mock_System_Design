@@ -8,14 +8,10 @@
 - [System Design Principles 📏](#system-design-principles-📏)
 - [Design Patterns 🛠️](#design-patterns-🛠️)
 - [Case Studies 📚](#case-studies-📚)
-- [Interview Questions ❓](#interview-questions-❓)
 - [Contributing 🤝](#contributing-🤝)
 
 ## Getting Started 🚀
-To get started with this repository, clone it to your local machine:
-```sh
-git clone https://github.com/yourusername/Mock_System_Design.git
-```
+To get started with this repository, clone it to your local machine.
 
 ## System Design Principles 📏
 - **Scalability**: Techniques and strategies to handle increasing load. 📈
@@ -33,17 +29,6 @@ git clone https://github.com/yourusername/Mock_System_Design.git
 - **Distributed Systems**: Examples and analyses of distributed architectures. 🌐
 - **Microservices**: Breakdown of monolithic applications into microservices. 🧩
 - **Load Balancing**: Strategies for distributing incoming network traffic across multiple servers. ⚖️
-
-## Interview Questions ❓
-- **Scalability and Load Balancing**
-  - How would you design a URL shortening service like bit.ly? 🔗
-  - Design a scalable system to handle millions of concurrent users. 📶
-- **Database Design**
-  - How would you design a social media feed system? 📰
-  - Design an online book store database. 📚
-- **Caching**
-  - Explain how you would implement a caching mechanism in a web application. 🗄️
-  - Design a high-throughput, low-latency cache system. ⚡
 
 ## Contributing 🤝
 We welcome contributions! If you have any improvements or new content to add, please feel free to open an issue or submit a pull request. 🛠️
